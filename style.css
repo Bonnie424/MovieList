@@ -1,0 +1,30 @@
+.lyrics-box {
+  border: 1px solid #DADADA;
+}
+
+
+
+#change-mode {
+  display: flex;
+  float: right;
+  width: 50px;
+  margin-top: 10px;
+  margin-left: 950px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.fa-th {
+  margin-right: 10px;
+}
+
+#card-mode-button:active,
+#list-mode-button:active {
+  color: gray;
+  /* 点击后的颜色 */
+}
+
+.card-title,
+.list-title {
+  font-weight: bold;
+}
