@@ -1,5 +1,7 @@
 # Movie List
 A simple web application for movie fanatic
+![Alt text](alt1.png)
+
 
 ## Features
 - listing movies from movie api
